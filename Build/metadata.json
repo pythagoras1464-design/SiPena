@@ -1,5 +1,0 @@
-{
-  "name": "ANBK Exam System",
-  "description": "A comprehensive examination platform inspired by ANBK, featuring admin dashboards, LaTeX-supported question management, student accounts, and real-time reporting using React and Supabase.",
-  "requestFramePermissions": []
-}
